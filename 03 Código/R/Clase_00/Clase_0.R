@@ -1,4 +1,4 @@
-# Estadistica II, Primavera de 2024
+# Estadistica I, Otoño de 2024
 # Primeros Códigos. Introduccion
 
 #****************************************************************************************
