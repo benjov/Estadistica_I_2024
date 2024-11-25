@@ -13,3 +13,6 @@ benjov@ciencias.unam.mx
 
 Este repositorio contiene los temario, scripts, notebooks y demás materiales del curso.
 
+Presentación de clase final: https://www.canva.com/design/DAGXhUDOdYw/CeCIvJXNgnj6LZGnPqPoGw/view?utm_content=DAGXhUDOdYw&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+
